@@ -23,3 +23,15 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,html,css,git,github,vscode,supabase,figma&perline=7" />
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anshd15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshd15&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=anshd15&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
