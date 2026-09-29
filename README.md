@@ -17,3 +17,9 @@
 - 🤝 Open to collaborating on interesting open-source ideas
 - ⚡ Fun fact: I like shipping things fast
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,html,css,git,github,vscode,supabase,figma&perline=7" />
+</p>
+
