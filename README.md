@@ -4,13 +4,19 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CF7&center=true&vCenter=true&width=520&lines=Developer+%7C+Builder+%7C+Learner;Turning+ideas+into+products;Always+shipping+something+new" alt="Typing SVG" /></a>
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=8B949E&center=true&vCenter=true&multiline=true&width=420&height=45&lines=%3E+npm+run+build-dreams;%3E+compiling+ideas...+done+%E2%9C%94" />
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=anshd15&color=2c5364&style=flat-square&label=Profile+Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" width="300" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 - 🔭 Currently building projects across web, data and automation
 - 🌱 Learning more about AI tooling and system design
