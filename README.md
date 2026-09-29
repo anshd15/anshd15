@@ -9,3 +9,11 @@
 </div>
 
 ---
+
+## 🚀 About Me
+
+- 🔭 Currently building projects across web, data and automation
+- 🌱 Learning more about AI tooling and system design
+- 🤝 Open to collaborating on interesting open-source ideas
+- ⚡ Fun fact: I like shipping things fast
+
