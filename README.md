@@ -29,6 +29,22 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,html,css,git,github,vscode,supabase,figma&perline=7" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshd15&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshd15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
