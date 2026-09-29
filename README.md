@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -53,6 +53,19 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=anshd15&theme=tokyonight&hide_border=true" />
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anshd15/readme/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</div>
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/anshd15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:anshdoshi.d16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
