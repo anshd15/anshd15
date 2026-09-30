@@ -33,18 +33,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshd15&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshd15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -52,12 +40,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshd15&layout=compact&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=anshd15&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anshd15/readme/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
 ## 🤝 Connect
